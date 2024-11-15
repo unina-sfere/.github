@@ -1,0 +1,3 @@
+The Statistic For Engineering Research (SFERe) group is dedicated to developing advanced statistical methods for addressing challenges in complex real-data applications, aiming to convert information into knowledge. 
+SFERe emphasizes the intrinsic connection between theory and practice, where theory is a fundamental tool for understanding the complexities of the world, and practice provides the impetus for the creation of new statistical methods. 
+The SFERe group consists of professors, post-docs, and Ph.D. students from the Department of Industrial Engineering at the University of Naples Federico II, working collaboratively to advance statistical methodologies in engineering research.
